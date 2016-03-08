@@ -1,6 +1,6 @@
 #TIC TAC TOE
 
-I made this game during my first semester in B.Tech.
+I made this game during my first semester of B.Tech.
 
 #Tic_Tac_Toe.c
 This is a simple implementation of two player Tic Tac Toe game in C language.
